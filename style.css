@@ -132,16 +132,16 @@ label {
 
 .fraca {
     width: 25%;
-    background-color: #ff66bf;
+    background-color: #2600ff97;
 }ok
 
 .media {
-    background-color: #ca11ab;
+    background-color: hsl(246, 100%, 52%);
     width: 50%;
 }
 
 .forte {
-    background-color: #690361;
+    background-color: #02046b;
     width: 100%;
 }
 
