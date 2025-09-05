@@ -2,8 +2,8 @@
 
 :root {
     background-image:url(image.png);
-    --branco: #f7f6f6;
-    --fundo-texto: #690db500;
+    --branco: #000000;
+    --fundo-texto: #7b4aa300;
     --borda: #8c50ae;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
